@@ -1,0 +1,18 @@
+# OS / IDE files
+*.DS_Store
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Media files (large)
+*.mp4
+*.mkv
+*.zip
+
+# Kubernetes / script temp files
+*.yaml~
+*.json~
