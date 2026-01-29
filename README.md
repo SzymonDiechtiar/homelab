@@ -12,6 +12,10 @@ The project focuses on:
 - Deploying applications like media servers, admin dashboards, and self-hosted tools  
 - Experimentation, documentation, and process tracking  
 
+Here you can find the main file describing plan of the homelab:
+
+  - [Main File](docs/homelab.md)
+
 ---
 
 ## Folder Structure
